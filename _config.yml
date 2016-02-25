@@ -1,0 +1,16 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            Jian Yang
+description:      
+url:              http://sheepx86.com
+baseurl:          /
+
+author:
+  name:           'Jian Yang'
+
+paginate:         5
+
+gems: [jekyll-paginate]
