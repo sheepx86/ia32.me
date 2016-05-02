@@ -24,7 +24,7 @@ permalink: CV.html
 
 #### UC San Diego
 
-- **2016 Spring** - TBD
+- **2016 Spring** - Introduction to Computer Architecture *(undergraduate level)*
 
 #### Fudan University
 
