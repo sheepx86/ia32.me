@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Jian Yang
+title:           Jian Yang 
 description:      
-url:              http://sheepx86.com
-baseurl:          http://cseweb.ucsd.edu/~jiy092/
+url:              http://cseweb.ucsd.edu/~jiy092
+baseurl:          /
 
 author:
   name:           'Jian Yang'

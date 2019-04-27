@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 @media (min-width: 48em) {
   html {
@@ -56,9 +56,9 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
+  color: #87C4ED;
   /*color: #d9cab3;*/
-  background-color: #004581;
+  background-color: #224675;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -67,19 +67,19 @@ html {
     left: 0;
     bottom: 0;
     width: 18rem;
-    text-align: left;
+    /*text-align: left;*/
   }
 }
 
 /* Sidebar links */
 .sidebar a {
-  color: #97cbdc;
+  color: #c0dfd9;
 }
 
 .sidebar .myicons a {
   /*
   color: #fff;*/
-  color: #97cbdc;
+  color: #c0dfd9;
   margin-right: 5px;
   font-size: 1.2rem;
 }
@@ -92,9 +92,9 @@ html {
 /* About section */
 .sidebar-about h1 {
   /*color: #fff;*/
-  color: #97cbdc;
+  color: #FF9ABC;
   margin-top: 0;
-  font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 2rem;
 }
 

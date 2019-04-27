@@ -1,22 +1,19 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+      <br>
       <h1>
         <!--<a href="{{ site.baseurl }}">-->
           {{ site.title }}
         <!--</a>-->
       </h1>
-      <p>Ph.D. Student<br>
+      <p>Ph.D. Candidate<br>
       Computer Science<br>
       UC San Diego</p>
-      <p><b>Email:</b> jianyang <i class="fa fa-at"></i> ucsd.edu<br>
-      <b>Office:</b> EBU3B 3254</p>
+      <p>jianyang <i class="fa fa-at"></i> ucsd.edu<br>
 
 
     </div>
-
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -34,11 +31,5 @@
       {% endfor %}
     </nav>
 
-    <div class="myicons">
-    <a href="https://twitter.com/sheepx86"><i class="fa fa-twitter-square"></i></a>
-    <a href="https://github.com/sheepx86"><i class="fa fa-github-square"></i></a>
-    </div>
-
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
